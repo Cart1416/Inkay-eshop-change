@@ -1,3 +1,5 @@
+go to src/patches/eshop_applet.cpp and change the wave_new variable to your own server
+
 # Inkay - Aroma patches for Pretendo
 
 [![Pretendo network logo](https://github.com/PretendoNetwork/website/raw/master/public/assets/images/opengraph/opengraph-image.png)](https://pretendo.network)
